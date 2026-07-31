@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anikesh Paul
 
-🎓 I'm a Sophomore B.Tech CSE student at ICFAI University Tripura.  
+🎓 I'm a 3rd Y CSE student at ICFAI University Tripura.  
 🚀 I’m passionate about Web Development, Cloud Computing, and DSA.  
 💡 I'm currently focused on preparing for internships and solving real-world problems using code.  
 🧠 I’m currently learning:
