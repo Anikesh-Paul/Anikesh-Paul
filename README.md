@@ -1,33 +1,114 @@
-# 👋 Hi, I’m Anikesh Paul
+<div align="center">
 
-🎓 I'm a 3rd Y CSE student at ICFAI University Tripura.  
-🚀 I’m passionate about Web Development, Cloud Computing, and DSA.  
-💡 I'm currently focused on preparing for internships and solving real-world problems using code.  
-🧠 I’m currently learning:
-- Data Structures & Algorithms (LeetCode)
-- Full-stack Web Development (MERN Stack)
+      <!-- Dynamic Typing SVG Header -->
+      <a href="https://github.com/Anikesh-Paul">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+
+  Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anikesh+Paul+
+  %F0%9F%91%8B;Full-Stack+Developer+%7C+Student;Crafting+Modern+Web+Applications;Exploring+Multimodal+AI+%26+Cloud" alt="Typing
+  SVG" />
+      </a>
 
----
+      <p align="center">
+        <strong>Computer Science Student &bull; Full-Stack Builder &bull; Problem Solver</strong>
+      </p>
 
-## 🔧 Tech Stack
+      <p align="center">
+        <a href="https://github.com/Anikesh-Paul"><img src="https://img.shields.io/github/followers/Anikesh-
+  Paul?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers"/></a>
+        <a href="https://github.com/Anikesh-Paul?tab=repositories"><img src="https://img.shields.io/github/stars/Anikesh-
+  Paul?label=Stars&style=flat-square&color=e3b341&logo=apachespark" alt="Stars"/></a>
+        <a href="mailto:anikeshpaul@example.com"><img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-blue?style=flat-
+  square&logo=mail.ru&logoColor=white" alt="Contact"/></a>
+      </p>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+    </div>
 
----
+    ---
+
+    ### 🌿 About Me
+
+    ```yaml
+    name: Anikesh Paul
+    location: Tripura, India
+    education: B.Tech CSE (3rd Year) @ ICFAI University Tripura
+    focus: Full-Stack Engineering, Distributed Backends, Multimodal AI
+    current_quest: Solving real-world problems through clean code & building production-grade apps
+    interests: [Web Development, System Design, DSA, Cloud & BaaS]
+
+  • 🔭 Currently Building: Full-stack SaaS & AI-integrated tooling (ShiftProof https://github.com/Anikesh-Paul/ShiftProof)
+  • 💡 Exploring: Multimodal vision agents (Gemini Flash), Appwrite BaaS, and Next.js / TypeScript architectures
+  • 🎯 Algorithmic Practice: Honing DSA skills on LeetCode and Striver's A2Z Sheet https://github.com/Anikesh-Paul/Striver-A2Z-DSA-
+  Sheet
+  • ⚡ Philosophy: Clean UI, pragmatic architecture, and high attention to detail
+  ──────
+  ### 🛠️ Tech Stack & Tooling
+  📂 Categorized Breakdown
+   Category                                                       │ Technologies
+  ────────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────
+   Languages                                                      │ TypeScript JavaScript (ES6+) C++ C Python HTML5 / CSS3
+   Frontend                                                       │ React.js Next.js Tailwind CSS Vite Responsive UI
+   Backend & Databases                                            │ Node.js Express.js MongoDB REST APIs MVC Architecture
+   Cloud & Ecosystem                                              │ Appwrite Cloud Gemini Vision AI Git GitHub Postman Vercel
+  ──────
+  ### 🚀 Featured Projects
+  🔍 ShiftProof
+
+          Real-time photo-proof SOP compliance for retail & kitchens.
+
+
+          Automated compliance verification using Gemini Flash multimodal vision.
+          Live manager scoreboard, instant task assignment, and audit-ready 1-page PDF exports.
+          Powered by React, TypeScript, and Appwrite Cloud.
+
+
+          [ Source Code ] •
+          [ Live Demo ]
 
 
 
-## 📫 Connect With Me
+        ⏳ QueueIt
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/anikesh-paul-27b656302)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](anikesh.contact@gmail.com)
+          Campus virtual queue management platform.
 
----
 
-> “The best way to get started is to quit talking and begin doing.” – Walt Disney
+          Enables students to join queues remotely and track waiting position in real-time.
+          Full admin controls to serve, skip, hold, and resume queue tickets seamlessly.
+          Built with full-stack MERN (MongoDB, Express, React, Node.js).
+
+
+          [ Source Code ]
+
+
+
+
+
+        🛡️ Whistleblower Portal
+
+          Secure anonymous incident reporting portal.
+
+
+          Confidential, tamper-evident submission channel for sensitive reports.
+          Focus on user privacy, role segregation, and secure payload handling.
+          Built with modern JavaScript and full-stack web standards.
+
+
+          [ Source Code ]
+
+
+
+        🧩 Striver A2Z DSA Tracker
+
+          Structured algorithmic problem solving and data structures.
+
+
+          Curated solutions across Arrays, Strings, Trees, Graphs, and DP.
+          Optimized space-time complexities with clean C++ / JS implementations.
+
+
+          [ Source Code ]──────
+  ### 📊 GitHub Activity & Metrics
+  ──────
+  ### 🌐 Connect & Collaborate
+  Designed with clean aesthetics • Crafted by Anikesh Paul
+
+  ```──────
